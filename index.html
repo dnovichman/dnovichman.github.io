@@ -4,16 +4,23 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<h1 class="page-heading">Welcome</h1>
+<p><b><i><font color="blue">Welcome to Rokel Delivery Services (RDS) (Here what we do with our drone)</font></i></b></p>
+<p>
+<img src="images/DSC_0012.JPG" alt="Go to W3Schools!" width="400" height="300" border="0">
+</p>
+
+  <h1 class="page-heading">Latest News</h1>
+<p><b><i><font color="red">We are live and coming soon!</font></i></b></p>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <!--<h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h2>-->
       </li>
     {% endfor %}
   </ul>

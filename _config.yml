@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Rokel Delivery Services!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -11,10 +11,10 @@ email: moses.bangura@anu.edu.au
 description: > # Rokel Delivery Services (RDS) coming soon...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: rds***
+#twitter_username: rds
 github_username:  dnovichman
 
 # Build settings
-markdown: kramdown
-![image-title-here](images/DSC_0012.JPG){:class="img-responsive"}
+markdown: kramdown #redcarpet
+#![Quadrotor Prototype](../images/DSC_0012.JPG){:class="img-responsive"}
 

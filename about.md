@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 Rokel Delivery servics coming your way very soon...
-![image-title-here](images/DSC_0012.JPG){:class="img-responsive"}
+![Quadrotor Prototype](../images/DSC_0012.JPG){:class="img-responsive"}
