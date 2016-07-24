@@ -6,4 +6,6 @@ permalink: /theteam/
 
 Rokel Delivery servics coming your way very soon...
 
-![image-title-here](/images/to/DSC_0012.JPG){:class="img-responsive"}
+images:
+  - image_path: images/DSC_0012.JPG
+    title: Apple Pie
