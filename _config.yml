@@ -12,7 +12,8 @@ description: > # Rokel Delivery Services (RDS) coming soon...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: rds
-github_username:  dnovichman
+#github_username:  dnovichman
+name: Rokel Delivery Services
 
 # Build settings
 markdown: kramdown #redcarpet

@@ -31,8 +31,12 @@
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
       </div>
-    </div>
-
+    
   </div>
-
+<div class="footer-col footer-col-4">
+<p class="copyright">
+          <strong>&copy; {{ site.time | date: '%Y' }} {{ site.name }}</strong><br />
+          <!--Build Date: <time class="build-date" datetime="{{ site..time }}">{{ site.time }}</time>-->
+        </p>
+</div>
 </footer>
