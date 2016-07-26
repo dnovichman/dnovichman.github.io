@@ -37,7 +37,7 @@ Ivan is operations manager in Ghana. Please include his business website
             caption="Ivan Hendrikx" %}
 
 # Juan David Adarve - Computer Vision Specialist
-Juan is currently completing his PhD in Computer Vision with a focus on optic-flow. Some of his work can be found on his [Github](https://github.com/jadarve)
+Juan is currently completing his PhD in Computer Vision with a focus on optic-flow. Some of his work can be found on his [Github](https://github.com/jadarve) page.
 {% include image.html
             img="../images/theteam/juan.jpeg"
             title="Juan David Adarve"
