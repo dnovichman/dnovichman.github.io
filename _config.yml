@@ -17,5 +17,6 @@ name: Rokel Delivery Services
 
 # Build settings
 markdown: kramdown #redcarpet
+
 #![Quadrotor Prototype](../images/DSC_0012.JPG){:class="img-responsive"}
 
