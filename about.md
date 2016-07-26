@@ -5,4 +5,9 @@ permalink: /about/
 ---
 
 Rokel Delivery servics coming your way very soon...
-![Quadrotor Prototype](../images/DSC_0012.JPG){:class="img-responsive"}
+{% include image.html
+            img="../images/product/DSC_0012.JPG"
+	    url = "../images/product/DSC_0012.JPG"
+	    width="400"
+            title="Moses Bangura"
+            caption="Quadrotor Aerial Vehicle" %}
