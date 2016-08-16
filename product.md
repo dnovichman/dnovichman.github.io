@@ -12,43 +12,50 @@ Videos on [youtube](https://www.youtube.com/user/dnovichman) coming soon.
 {: style="color:red; font-size: 200%; text-align: center;"}
 
 {% include image.html
-            img="../images/product/DSC_0011.JPG"
-	    url = "../images/product/DSC_0011.JPG"
+            img="../images/product/pic1_low.jpg"
+	    url = "../images/product/pic1_high.jpg"
+	    width="300"
+            title="Moses Bangura"
+            caption="Quadrotor sitting on the ground" %}
+
+{% include image.html
+            img="../images/product/pic2_low.jpg"
+	    url = "../images/product/pic2_high.jpg"
 	    width="300"
             title="Moses Bangura"
             caption="Autonous Hovering" %}
 
 {% include image.html
-            img="../images/product/DSC_0012.JPG"
-	    url = "../images/product/DSC_0012.JPG"
-	    width="300"
-            title="Moses Bangura"
-            caption="Autonous Hovering" %}
-
-{% include image.html
-            img="../images/product/DSC_0013.JPG"
-	    url = "../images/product/DSC_0013.JPG"
+            img="../images/product/pic3_low.jpg"
+	    url = "../images/product/pic4_high.jpg"
 	    width="300"
             title="Moses Bangura"
             caption="Autonous Flight" %}
 
 {% include image.html
-            img="../images/product/20160723_141028.jpg"
-	    url = "../images/product/20160723_141028.jpg"
+            img="../images/product/pic4_low.jpg"
+	    url = "../images/product/pic4.high.jpg"
 	    width="300"
             title="Moses Bangura"
             caption="Autonous Flight" %}
 
 {% include image.html
-            img="../images/product/20160723_141053.jpg"
-	    url = "../images/product/20160723_141053.jpg"
+            img="../images/product/pic5_low.JPG"
+	    url = "../images/product/pic5_high.JPG"
 	    width="300"
             title="Moses Bangura"
             caption="Autonous Flight" %}
 
 {% include image.html
-            img="../images/product/20160723_141110.jpg"
-	    url = "../images/product/20160723_141110.jpg"
+            img="../images/product/pic6_low.JPG"
+	    url = "../images/product/pic6_high.JPG"
+	    width="300"
+            title="Moses Bangura"
+            caption="Autonous Flight" %}
+
+{% include image.html
+            img="../images/product/pic7_low.JPG"
+	    url = "../images/product/pic7_high.JPG"
 	    width="300"
             title="Moses Bangura"
             caption="Autonous Flight" %}
