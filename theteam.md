@@ -4,7 +4,7 @@ title: The Team
 permalink: /theteam/
 ---
 
-Rokel Delivery services coming your way very soon...
+Rokel Delivery Services has a wide range of members with varying specialities. Information of some team members can be found below.
 
 
 
