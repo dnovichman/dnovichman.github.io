@@ -6,7 +6,7 @@ permalink: /product/
 Images of Rokel Delivery Services' proposed quadrotor system flying under vicon are shown below. 
 
 Videos on [youtube](https://www.youtube.com/user/dnovichman) coming soon.
-{: style="color:red; font-size: 200%; text-align: center;"}
+{: style="color:red; font-size: 200%; text-align: left;"}
 
 {% include image.html
             img="../images/product/pic1_low.jpg"

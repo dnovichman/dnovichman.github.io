@@ -4,8 +4,8 @@ title: Media
 permalink: /media/
 ---
 
-Rokel Delivery services won the Next Einstein Forum's inaugural Challenge of Innovation to
-Invention in March 2016 in Dakar, Senegal.
+Rokel Delivery Services won the inaugural Next Einstein Forum's Challenge of Innovation to
+Invention in March 2016 in Dakar, Senegal. Below are some of the media coverage of RDS.
 
 
 
