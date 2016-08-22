@@ -30,7 +30,7 @@ David Sengeh is one of the founders of Rokel Delivery Services. He completed his
 
 # Ivan Hendrikx - Operations Manager (Ghana)
 ---
-Ivan is the operations manager of RDS in Ghana. He is an international expert on technical regulations and airworthiness testing, design evaluation. His company ESTH does a lot of support to businesses/authorities with extensive contacts in Africa and in particular Ghana. Some of his expertise are listed on his [linkedin](https://www.linkedin.com/in/ivan-hendrikx-ba309817) page.
+Ivan is the operations manager of RDS in Ghana. He is an international expert on technical regulations, airworthiness testing and design evaluation. His company ESTH does a lot of support to private and public businesses across Africa in particular Ghana. Some of his expertise are listed on his [linkedin](https://www.linkedin.com/in/ivan-hendrikx-ba309817) page.
 {% include image.html
             img="../images/theteam/ivan.jpeg"
             title="Ivan Hendrikx"
