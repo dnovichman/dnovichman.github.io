@@ -4,7 +4,7 @@ title: The Team
 permalink: /theteam/
 ---
 
-Rokel Delivery Services has a wide range of members with varying specialities. Information on some members of the team can be found below.
+Rokel Delivery Services has a wide range of members with varying specialisations. Information on some members of the team can be found below.
 
 
 
