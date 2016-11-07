@@ -5,6 +5,8 @@ permalink: /product/
 ---
 Images of one of the prototypes being trialled by Rokel Delivery Services flying under Vicon motion capture system are shown below. 
 
+* Maximum speed 12m/s or 36km/h
+
 Videos on [youtube](https://www.youtube.com/user/dnovichman) coming soon.
 {: style="color:red; font-size: 200%; text-align: left;"}
 
