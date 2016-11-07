@@ -9,7 +9,7 @@ Images of one of the prototypes being trialled by Rokel Delivery Services flying
 * Maximum takeoff weight of 20kg
 * Endurance of 45mins and a range of 25km
 * Handle wind of up to 15knots
-* Sensor redundancy and robustness to sensor failures
+* Redundancy and robustness to sensor failures
 
 Videos on [youtube](https://www.youtube.com/user/dnovichman) coming soon.
 {: style="color:red; font-size: 200%; text-align: left;"}

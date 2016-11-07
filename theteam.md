@@ -22,7 +22,7 @@ Moses Bangura is the CEO and co-founder of Rokel Delivery Services. In February 
 
 # David Sengeh - Co-founder
 ---
-David Sengeh is one of the founders of Rokel Delivery Services. He completed his PhD at MIT in 2015.
+David Moinina Sengeh, received a Bachelor’s Degree in Biomedical Engineering from Harvard College; and a Masters and Ph.D. degree from the Massachusetts Institute of Technology (MIT) Media Lab. His PhD research at the Biomechatronics group focused on the design of comfortable prosthetic sockets and wearable interfaces. He is currently a Research Scientist at IBM Research-Africa in Nairobi, Kenya.
 {% include image.html
             img="../images/theteam/david.jpeg"
             title="David Sengeh"
