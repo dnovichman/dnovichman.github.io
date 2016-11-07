@@ -3,9 +3,13 @@ layout: page
 title: Product
 permalink: /product/
 ---
-Images of one of the prototypes being trialled by Rokel Delivery Services flying under Vicon motion capture system are shown below. 
+Images of one of the prototypes being trialled by Rokel Delivery Services flying under Vicon motion capture system are shown below. The aerial platforms are designed to meet the following specifications.
 
-* Maximum speed 12m/s or 36km/h
+* Maximum speed 12m/s or 43km/h
+* Maximum takeoff weight of 20kg
+* Endurance of 45mins and a range of 25km
+* Handle wind of up to 15knots
+* Sensor redundancy and robustness to sensor failures
 
 Videos on [youtube](https://www.youtube.com/user/dnovichman) coming soon.
 {: style="color:red; font-size: 200%; text-align: left;"}
